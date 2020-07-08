@@ -6,4 +6,5 @@ The schedule and course outline (further details still being added) are availabl
 
 Caroline Colijn [email](mailto:ccolijn@sfu.ca?subject=SISMID2020)    
 Jessica Stockdale [email](mailto:jessica_stockdale@sfu.ca?subject=SISMID2020)   
+@ Simon Fraser University, [MAGPIE research group](https://www.sfu.ca/magpie)
 
