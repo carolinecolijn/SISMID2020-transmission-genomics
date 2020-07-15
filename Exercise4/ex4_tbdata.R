@@ -22,9 +22,9 @@ plot(ptree)
 
 # TB: gen time ~ gamma(shape = 1.3, rate = 0.3) years, samp time ~ gamma(shape = 1.1, rate = 0.4) years
 w.shape=1.3
-w.scale=0.3
+w.scale=1/0.3 # scale is 1/rate 
 ws.shape=1.1
-ws.scale=0.4
+ws.scale=1/0.4
 
 dateT=max(dates)+ 30/365 # let's use about 1 month later
 
